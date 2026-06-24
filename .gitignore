@@ -1,0 +1,16 @@
+# Frontend
+doctor-booking-frontend/node_modules/
+doctor-booking-frontend/.env
+doctor-booking-frontend/dist/
+doctor-booking-frontend/build/
+
+# Backend
+Doctor_Booking/node_modules/
+Doctor_Booking/vendor/
+Doctor_Booking/.env
+
+# General
+.env
+*.log
+.DS_Store
+.vscode/
